@@ -5,7 +5,7 @@ html, body {
 h1 {
   font-size:3em;
   font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .name {
@@ -32,9 +32,9 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #00c6ff, #328eff);
+  background: linear-gradient(to left, #00c6ff, #4332ff);
   min-height: 350px;
-  color: #fff;
+  color: #ffffff;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -82,16 +82,16 @@ footer a {
 }
 
 .container-color {
-  background-color: #328eff;
+  background-color: #3295ff;
 }
 
 .container-dark {
-  background-color: #343a40;
+  background-color: #40343b;
 }
 
 .card-title {
   margin-top: 50px;
-  color: #328eff;
+  color: #ff3232;
   text-align: center;
 }
 
@@ -158,7 +158,7 @@ footer a {
 	 content: "";
 	 width: 3px;
 	 height: 100%;
-	 background: #328eff;
+	 background: #8e32ff;
 	 left: 50%;
 	 top: 0;
 	 position: absolute;
@@ -174,7 +174,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: #328eff;
+	 background: #329cff;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
@@ -196,7 +196,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
-	 background: #328eff;
+	 background: #3281ff;
 	 color: #fff;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
@@ -214,7 +214,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #328eff;
+	 border-left: 7px solid #5b32ff;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -251,7 +251,7 @@ footer a {
 		 left: 10%;
 		 margin-left: -6px;
 		 border-left: 0;
-		 border-right: 7px solid #328eff;
+		 border-right: 7px solid #6532ff;
 	}
 	 #timeline .timeline-item .timeline-icon {
 		 left: 0;
